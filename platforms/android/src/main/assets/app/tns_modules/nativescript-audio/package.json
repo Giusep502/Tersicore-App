@@ -1,0 +1,89 @@
+{
+  "name": "nativescript-audio",
+  "version": "3.1.5",
+  "description": "NativeScript plugin to record and play audio.",
+  "main": "audio",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.ios": "npm run preparedemo; cd demo; tns run ios --emulator",
+    "demo.android": "npm run preparedemo; cd demo; tns run android --emulator",
+    "preparedemo": "npm run build; cd demo; tns plugin remove nativescript-audio; tns plugin add ..;",
+    "setup": "cd demo; npm i; cd ..; npm i; npm run build; cd demo; tns plugin add ..; cd .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-audio.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "music",
+    "microphone",
+    "recorder",
+    "audio",
+    "bradmartin",
+    "nathanwalker"
+  ],
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Nathan Walker",
+      "email": " walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-audio/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/bradmartin/nativescript-audio",
+  "devDependencies": {
+    "tns-core-modules": "^2.5.1",
+    "tns-platform-declarations": "^2.5.0",
+    "typescript": "^2.1.0"
+  },
+  "gitHead": "1958f9c1020c6f8a78e3e814f6f8c4deac644eae",
+  "_id": "nativescript-audio@3.1.5",
+  "_shasum": "66258bf81f5fcbbc247c7c9f025bd12071ea9f2e",
+  "_from": "nativescript-audio@latest",
+  "_npmVersion": "3.10.9",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "walkerrunpdx",
+    "email": "walkerrunpdx@gmail.com"
+  },
+  "dist": {
+    "shasum": "66258bf81f5fcbbc247c7c9f025bd12071ea9f2e",
+    "tarball": "https://registry.npmjs.org/nativescript-audio/-/nativescript-audio-3.1.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "bradmartin",
+      "email": "bradmartin0905@gmail.com"
+    },
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-audio-3.1.5.tgz_1489644949946_0.00035221013240516186"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-audio/-/nativescript-audio-3.1.5.tgz",
+  "readme": "ERROR: No README data found!"
+}

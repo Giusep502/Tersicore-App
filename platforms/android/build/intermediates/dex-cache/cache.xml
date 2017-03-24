@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.0.1_77f0bbf5e43f9cdadcc3d4bc0b19296dab1132f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.0.1_313c87140c4a62e2948bbb4523245da5216564cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_9d987d780a23f0b462b2dbba153f078bdabf2c3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.0.1_a914eb31f8a4b2f31e6c6bcbdbd58e66f5e3879b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.0.1_c3db8d844b248c4ee80c4732bf0449e8b3c0fbc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.0.1_a99b66fe03bf8eaa1313d039c69948a97fc20693.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\Tersicore\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="791326bdf152dc35a200aea2938d5e5f2af0c81a">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\Tersicore-runtime-unspecified_f4c810b9170bab73a13b282d68e89a081a41d9f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_6e35997aa5a6a91842af0ed9ef4330eb86a01c23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.0.1_409aca85f4fbe584bd9e9c7f4e129021fbbcea2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.0.1_b6a026bad70d8128e999885043b5e512864de306.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_b99c5104dd61bda687529b048fa091bd85c2c498.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.0.1_304943ac984da5d9bcd9b821b2c08890fcca2d16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_a5fa0dec97316233d22e70915032d83a4cfe27ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\Tersicore\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_4d0559d93df2fe24b2a4f58b3ad5c45b2b9d985e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.0.1_952e8bd0a5ef9a8885b14d498b76080ae759fabf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_dfda959a4695c334fcbbdcd2fcf93a91191dba05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.0.1_8b1a6997cd5878e30e5276274650318ee6458a5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.0.1_d3e2459ab5d281308e31b67ef5162f19428c869d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.0.1_953d07fdaf4ea7e4f30f73953be346c4acadcef4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_120805bdb2fedf1b0cb882486b2944dc9e20d48f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giuseppe\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Giuseppe\Documenti\Mobile Apps\Tersicore\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.0.1_339531f24d4f230ed4c0cb4085ae79ba3ca8abd2.jar" />
+    </item>
+
+</items>

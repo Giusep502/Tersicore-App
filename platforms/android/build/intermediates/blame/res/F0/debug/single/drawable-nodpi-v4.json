@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\peach.jpg",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\peach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\ic_backward.png",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\ic_backward.png"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\album3.png",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\album3.png"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\ic_forward.png",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\search.png",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\update.jpg",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\update.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\album2.png",
+        "source": "C:\\Users\\Giuseppe\\Documenti\\Mobile Apps\\Tersicore\\platforms\\android\\src\\main\\res\\drawable-nodpi\\album2.png"
+    }
+]
