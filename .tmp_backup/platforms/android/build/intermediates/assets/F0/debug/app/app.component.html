@@ -1,0 +1,18 @@
+<GridLayout rows="auto, *">
+
+  <GridLayout row="0" columns="*, auto" class="add-bar">
+    <TextField #groceryTextField [(ngModel)]="grocery" hint="Search a Song by Title" col="0"></TextField>
+    <Image (tap)="filterList()" src="res://search" col="1"></Image>
+  </GridLayout>
+
+  <ListView [items]="filteredList" row="1" class="small-spacing" [class.visible]="!isLoading">
+    <template let-item="item">
+        <GridLayout columns="*, auto">
+            <Label [text]="item.title" class="medium-spacing" col="0"></Label>
+            <Label [text]="item.artist" col="1"></Label>
+        </GridLayout>
+    </template>
+  </ListView>
+
+</GridLayout>
+

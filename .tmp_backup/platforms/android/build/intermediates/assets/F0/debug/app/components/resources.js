@@ -1,0 +1,8 @@
+"use strict";
+var Resources = (function () {
+    function Resources() {
+    }
+    return Resources;
+}());
+exports.Resources = Resources;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicmVzb3VyY2VzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsicmVzb3VyY2VzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQTtJQUFBO0lBU0EsQ0FBQztJQUFELGdCQUFDO0FBQUQsQ0FBQyxBQVRELElBU0M7QUFUWSxpQkFBUyxZQVNyQixDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNsYXNzIFJlc291cmNlcyB7XHJcblxyXG5iaXRyYXRlOiBudW1iZXI7XHJcbmNvZGVjOiBzdHJpbmc7XHJcbnBhdGg6IHN0cmluZztcclxuc2FtcGxlX3JhdGU6IG51bWJlcjtcclxudHJhY2tfdXVpZDogc3RyaW5nO1xyXG51dWlkOiBzdHJpbmc7XHJcblxyXG59Il19
